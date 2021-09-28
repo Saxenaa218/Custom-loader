@@ -1,0 +1,57 @@
+.progress-bar {
+  border-radius: 10px;
+  height: 15px;
+  width: 50vh;
+  border: 1px solid #d3d3d3;
+}
+
+.progress-bar--tracker {
+  background-color: blue;
+  height: inherit;
+  transition: width 0.5s ease-in-out;
+  border-radius: inherit;
+}
+
+.width-0 {
+  width: 0%;
+}
+
+.width-10 {
+  width: 10%;
+}
+
+.width-20 {
+  width: 20%;
+}
+
+.width-30 {
+  width: 30%;
+}
+
+.width-40 {
+  width: 40%;
+}
+
+.width-50 {
+  width: 50%;
+}
+
+.width-60 {
+  width: 60%;
+}
+
+.width-70 {
+  width: 70%;
+}
+
+.width-80 {
+  width: 80%;
+}
+
+.width-90 {
+  width: 90%;
+}
+
+.width-100 {
+  width: 100%;
+}
